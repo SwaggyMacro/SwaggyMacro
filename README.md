@@ -48,9 +48,7 @@
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaggymacro&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <!-- Spotify 音乐 -->
 <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/shin_chan.gif" />&emsp;&emsp;&emsp;&emsp;
