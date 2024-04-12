@@ -1,7 +1,6 @@
 <div align="center">
   <p style="font-weight: bold; font-size: large">接程序开发，有意联系QQ🐧：<a href="http://wpa.qq.com/msgrd?v=3&uin=1194142028&site=qq&menu=yes" target="_blank">1194142028.</a></p>
     <div style="font-weight: bold;">
-        <li>本科计算机论文指导</li>
         <li>网站开发、小程序开发</li>
         <li>WordPress 插件、模板开发</li>
         <li>Windows / Linux 程序开发</li>
