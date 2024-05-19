@@ -1,13 +1,5 @@
 <div align="center">
-  <p style="font-weight: bold; font-size: large">接程序开发，有意联系QQ🐧：<a href="http://wpa.qq.com/msgrd?v=3&uin=1194142028&site=qq&menu=yes" target="_blank">1194142028.</a></p>
-    <div style="font-weight: bold;">
-        <li>网站开发、小程序开发</li>
-        <li>WordPress 插件、模板开发</li>
-        <li>Windows / Linux 程序开发</li>
-        <li>QQ机器人插件、CS2插件开发</li>
-        <li>服务器、网站等各种软件以及环境代搭建</li>
-        <li>技术栈：HTML/JS/CSS/VUE.JS、C#、Java、PHP、C/C++、Python</li>
-    <div>
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://julym.com/">
