@@ -2,8 +2,8 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://julym.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Hope today treats you well!&center=true&size=27" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=console.log(%22Hello+World%22);%3CHope+today+treats+you+well!" alt="Typing SVG" />
     </a>
   </div>
 
