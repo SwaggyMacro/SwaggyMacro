@@ -69,15 +69,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/hr.gif" />
 
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/githubgif.gif" />
-
-<!-- just img 图片 -->
-<img src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/rocket.png"/>
-</div>
 <!--
 **SwaggyMacro/SwaggyMacro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
