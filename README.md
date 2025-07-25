@@ -34,7 +34,7 @@
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=swaggymacro&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true&include_all_commits=true&time=unknow" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaggymacro&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaggymacro&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/hr.gif" />
