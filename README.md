@@ -48,7 +48,7 @@
 <div><img src="https://readme-jokes-eta.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-activity-graph-seven-gamma.vercel.app/?user=swaggymacro&theme=dark&hide_border=true" />  
+<img align="center" src="https://github-readme-streak-stats-livid-gamma.vercel.app/?user=swaggymacro&theme=dark&hide_border=true" />  
 
 
 <!-- Spotify 音乐 -->
