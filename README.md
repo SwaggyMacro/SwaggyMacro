@@ -45,10 +45,10 @@
 <img src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/706e67.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<div><img src="https://readme-jokes-eta.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaggymacro&theme=dark&hide_border=true" />  
+<img align="center" src="https://github-readme-activity-graph-seven-gamma.vercel.app/?user=swaggymacro&theme=dark&hide_border=true" />  
 
 
 <!-- Spotify 音乐 -->
@@ -60,7 +60,7 @@
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=swaggymacro&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph-seven-gamma.vercel.app/graph?username=swaggymacro&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
