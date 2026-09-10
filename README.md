@@ -13,7 +13,6 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://b.julym.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://bbs.ncii.cn/"><img src="https://img.shields.io/badge/Website-社区-pink" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=swaggymacro&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
