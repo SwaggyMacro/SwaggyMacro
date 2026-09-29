@@ -16,7 +16,6 @@
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=swaggymacro&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-<img src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/2e706e67.png" alt="Man Lifting Weights" width="250" height="250" />
 
 </div>
 
@@ -39,9 +38,6 @@
 <img width="200%" src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/hr.gif" />
 
 <div align="center">
-
-<!-- run 图片 -->
-<img src="https://raw.githubusercontent.com/SwaggyMacro/SwaggyMacro/main/images/706e67.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes-eta.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
